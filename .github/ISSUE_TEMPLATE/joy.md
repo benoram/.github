@@ -1,6 +1,6 @@
 ---
 name: Joy of technology
-about: Reduce toil; Dev xp
+about: Reduce toil; Improve dev xp
 title: ''
 labels: ''
 assignees: ''
