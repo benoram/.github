@@ -2,7 +2,7 @@
 name: Blog post
 about: Simple blog post entry
 title: ''
-labels: draft
+tags: post, draft
 assignees: benoram
 ---
 
